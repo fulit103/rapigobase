@@ -14,4 +14,4 @@ RUN sed '/st_mysql_options options;/a unsigned int reconnect;' /usr/include/mysq
 
 COPY ./requirements.txt $DJANGODIR/
 
-RUN pip install -r new_requirements.txt
+RUN pip install -r requirements.txt
