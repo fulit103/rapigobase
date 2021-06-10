@@ -37,7 +37,7 @@ cycler==0.10.0
 decorator==4.1.2
 diff-match-patch==20121119
 distlib==0.3.0
-Django==1.11.5
+Django==2.2.24
 django-appconf==1.0.2
 django-celery==3.2.1
 django-compressor==2.2
